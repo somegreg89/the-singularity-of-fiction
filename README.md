@@ -1,4 +1,4 @@
-# the-singularity-of-fiction
+# The Singularity of Fiction
 ## INTRODUCTION
 
 The hurricane of the idea of taking property from an owner to achieve an artistic end is raging with the blissful Artificial Intelligence to the point of being labeled as a form of theft. The AI needs a dataset to be trained to obtain ways to replicate such information based on user input.
