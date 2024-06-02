@@ -7,13 +7,13 @@ This is why a way is proposed to charge royalties by entering properties into th
 
 But what would happen when you never get such property from the owner and manage to get the same results? Welcome to what I call The Singularity of Fiction. And this has its greatest utility in art.
 
-# PRINCIPLES:
+## PRINCIPLES
 
 Recall that:
 1. A property possesses owner.
 2. It is necessary to be owner to have control over such property, being: What is done, How it is done, Where it is done, When it is done, With whom it is done, With what it is done. This control is exercised thanks to the Copyrights where the owner has the monopoly of violence over who uses his property (he can sanction whoever he wants if his property is used without a previous agreement).
 
-# DEFINITION
+## DEFINITION
 
 What is this? Based on the above, it means that we can introduce datasets where no property of anyone at all is required. How? Being able to synthesize purely with mathematical abstraction the matter that will then be used as datasets for AI. And the results would be similar or even equal compared to using properties of people as datasets.
 
@@ -45,7 +45,7 @@ Voice actors, in order to maintain control over their property, must claim that 
 
 Here is the singularity of fiction, a plane where having ownership is completely useless. The monopoly of violence is lost to the owners.
 
-# POSSIBLE CONSEQUENCES AND CONCLUSIONS
+## POSSIBLE CONSEQUENCES AND CONCLUSIONS
 
 This causes what would be the death of the system that the owners managed to maintain their flow of money and therefore, accumulation of wealth (capitalism), forcing them to implement post-capitalist models or flatly extinguish such system where it used to work. If they refuse such thing, they will **corrupt the principles, law and enhancing censorship, infringements of privacy and more** to protect interests from both sides (corporations and professional individuals).
 
